@@ -69,10 +69,7 @@ O jogo possui 3 níveis, cada um ficando mais difícil:
 - Python  
 - Pygame  
 
-## COmo jogar?
+## Como jogar?
 
 Vá na aba **Releases** aqui no GitHub e baixe o arquivo!!!
 
-## 🚀 Como rodar o projeto
-
-bash pip install pygame python main.py
