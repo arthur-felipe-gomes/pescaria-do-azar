@@ -11,7 +11,7 @@ Um jogo feito em Python usando a biblioteca Pygame, com foco em risco, sorte e p
 ---
 
 ## 🎯 Objetivo
-Alcançar 20 pontos sem ser destruído por um tubarão.
+Alcançar 20 pontos sem ser destruído por tubarão.
 
 ---
 
